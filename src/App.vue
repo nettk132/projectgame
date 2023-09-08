@@ -46,8 +46,8 @@ const player2_choose = ref('');
 const result = ref('');
 
 const choiceImages = {
-  'rock': 'OIP.jpg',
-  'paper': 'OIP (1).jpg',
+  'rock': 'https://th.bing.com/th/id/OIP.dl8XF_EcB6fQVWbAOvQ53gAAAA?pid=ImgDet&rs=1',
+  'paper': 'https://th.bing.com/th/id/OIP.XK025y80OUEU2G1a9G9jQgAAAA?pid=ImgDet&rs=1',
   'scissors': 'https://th.bing.com/th/id/OIP.IqxBu-6Y88u12814HE4b3AAAAA?pid=ImgDet&rs=1',
   'heart': 'https://png.pngtree.com/png-vector/20220428/ourmid/pngtree-smooth-glossy-heart-vector-file-ai-and-png-png-image_4557871.png',
 };
